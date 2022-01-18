@@ -28,5 +28,6 @@ Pada project ini diminta untuk membuat structure database dengan user, role, pri
 - Setelah melakukan login akan menampilkan dashboard yang dapat diakses oleh semua role
 - Selanjutnya ada menu Data Pengguna yang hanya dapat diakses oleh administrator dan operator
 - Administrator sendiri dapat melakukan penambahan user dan melakukan penyuntingan atau penghapusan pada data pengguna.
+
 ======================================================================
-Sebelumnya saya mohon maaf terkait hasil yang saya berikan jika mungkin ada kurang dikarenakan saya sendiri masih mempelajari terkait hak akses atau multi user level pada php. Terima kasih
+Sebelumnya saya ingin mengucapkan terima kasih atas kesempatan yang telah diberikan, hasil ini saya sudah kerjakan semaksimal mungkin, mohon maaf terkait hasil yang saya berikan jika mungkin ada kurang. Terima kasih
