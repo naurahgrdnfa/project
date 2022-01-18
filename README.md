@@ -32,4 +32,3 @@ Pada project ini diminta untuk membuat structure database dengan user, role, pri
 - Administrator sendiri dapat melakukan penambahan user dan melakukan penyuntingan atau penghapusan pada data pengguna.
 
 ======================================================================
-Sebelumnya saya ingin mengucapkan terima kasih atas kesempatan yang telah diberikan, hasil ini saya sudah kerjakan semaksimal mungkin, mohon maaf terkait hasil yang saya berikan jika mungkin ada kurang. Terima kasih
